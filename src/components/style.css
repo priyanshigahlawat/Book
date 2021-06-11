@@ -1,0 +1,20 @@
+#box{
+    height: 350px;
+    width: 800px;
+    background-color:peachpuff;
+}
+#container{
+    width: 700px;
+}
+#submit{
+    width: 250px;
+}
+#footer{
+    height: 220px;
+    width: 800px;
+    background-color:grey;
+    overflow-y: scroll;
+}
+.bg-info{
+    color:peachpuff;
+}
